@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hello world! I am Eason Chang! 👋
+
+### Dev Card - What I am reading
+
+<a href="https://app.daily.dev/easonchang"><img src="https://api.daily.dev/devcards/5e6f4a3153cb4737b462124bf17bef09.png?r=lhk" width="400" alt="Eason Chang's Dev Card"/></a>
 
 <!--
 **Kamigami55/Kamigami55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
