@@ -17,7 +17,7 @@
   </a>
 </div>
 
-<h1 align="center">Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="8%" alt="waving hand" /> I am Eason Chang!</h1>
+<h1 align="center">Hey! I am Eason Chang! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%" alt="waving hand" /></h1>
 
 ### 👩‍💻 About Me
 
