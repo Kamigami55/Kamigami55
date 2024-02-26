@@ -72,7 +72,10 @@ I'm a passionate **full-stack developer**. I build COOOOOL [projects](https://ea
   <img src="https://streak-stats.demolab.com?user=Kamigami55&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-###
+### ✍️ Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <!--
 **Kamigami55/Kamigami55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
