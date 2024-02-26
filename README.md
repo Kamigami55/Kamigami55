@@ -1,8 +1,4 @@
 <div align="center">
-  <img height="150" src="https://avatars.githubusercontent.com/u/8737381?v=4"  />
-</div>
-
-<div align="center">
   <a href="https://www.linkedin.com/in/easonchang101/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
@@ -13,7 +9,7 @@
   <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white height="25" alt="facebook logo" />
   </a>
   <a href="https://www.instagram.com/_easonchang/" target="_blank">
-  <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white height="25" alt="instagram logo" />
+  <img src="https://camo.githubusercontent.com/f41da31bf426102ea1df9c083e9a316abd3af1ffb908fd8c9bd7be651d4d4541/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f696e7374616772616d2d2532334534343035462e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465" height="25" alt="instagram logo" />
   </a>
 </div>
 
