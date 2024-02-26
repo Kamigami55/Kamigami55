@@ -75,6 +75,11 @@ I'm a passionate **full-stack developer**. I build COOOOOL [projects](https://ea
 ### ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Balancing and Improving Readability of Web Titles with react-wrap-balancer](https://easonchang.com/posts/react-wrap-balancer)
+- [讓網頁標題文字更均衡、好讀，使用 react-wrap-balancer](https://easonchang.com/posts/react-wrap-balancer)
+- [總結與回顧：一個炫砲技術部落格的誕生 - Modern Next.js Blog 系列 #30](https://easonchang.com/posts/modern-nextjs-blog-summary)
+- [在 Next.js Contentlayer blog 實作舊路徑轉址 - Modern Next.js Blog 系列 #29](https://easonchang.com/posts/contentlayer-redirection)
+- [使用 next-i18next 實作中英文多語系 - Modern Next.js Blog 系列 #28](https://easonchang.com/posts/next-i18next-multilingual)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
