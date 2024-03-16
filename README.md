@@ -19,7 +19,7 @@
 
 I'm a passionate **full-stack developer**. I build COOOOOL [projects](https://easonchang.com/projects)!
 
-- 🔭 I'm looking for **software engineering jobs** in Canada 🇨🇦. Feel free to checkout my [LinkedIn](https://www.linkedin.com/in/easonchang101/) and reach out to me!
+- 🔭 I'm looking for **software engineering jobs** in Canada 🇨🇦. Feel free to check out my [resume](https://drive.google.com/file/d/1-RdgOpRQxKpwLDSpFHWX0rzkCdnquDZG/view), connect with me on [LinkedIn](https://www.linkedin.com/in/easonchang101/) and reach out to me!
 - 📚 I'm currently working on my JobSeeker project, a tool helping job seekers find jobs efficiently using AI!
 - 🏠 I was born in Taiwan 🇹🇼. Country of tasty food! I love bubble tea 🧋!
 - ✍️ I write blogs about **web development** and **software engineering**. Check out my blog [easonchang.com](https://easonchang.com/)!
@@ -54,6 +54,7 @@ I'm a passionate **full-stack developer**. I build COOOOOL [projects](https://ea
 ### ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Timez - Time Zone Converter: Convert time between different timezones](https://easonchang.com/posts/timezone-converter)
 - [Timez - Time Zone Converter 時區轉換工具](https://easonchang.com/posts/timezone-converter)
 - [Balancing and Improving Readability of Web Titles with react-wrap-balancer](https://easonchang.com/posts/react-wrap-balancer)
