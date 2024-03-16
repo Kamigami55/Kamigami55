@@ -54,7 +54,6 @@ I'm a passionate **full-stack developer**. I build COOOOOL [projects](https://ea
 ### ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Timez - Time Zone Converter: Convert time between different timezones](https://easonchang.com/posts/timezone-converter)
 - [Timez - Time Zone Converter 時區轉換工具](https://easonchang.com/posts/timezone-converter)
 - [Balancing and Improving Readability of Web Titles with react-wrap-balancer](https://easonchang.com/posts/react-wrap-balancer)
